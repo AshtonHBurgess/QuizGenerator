@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">QuizGenerator</string>
+    <string name="btnGoToMain">Quiz Again</string>
+    <string name="display">display</string>
+    <string name="displayDef">displayDef</string>
+    <string name="btnTerm1txt">btnTerm1txt</string>
+    <string name="btnTerm2txt">btnTerm2txt</string>
+    <string name="btnTerm3txt">btnTerm3txt</string>
+    <string name="btnTerm4txt">btnTerm4txt</string>
+    <string name="questionCountDsi">questionCountDsi</string>
+    <string name="resultsTitle">Out Of Ten Questions</string>
+    <string name="definition1">definition</string>
+    <string name="term1">term</string>
+    <string name="enterButton">enterQA</string>
+    <string name="loadQuiz">load quiz</string>
+
+    <string name="trm1" >trm</string>
+    <string name="def1">def</string>
+    <string name="trm2"  >trm2</string>
+    <string name="def2">def2</string>
+    <string name="def3">def3</string>
+    <string name="trm3">trm3</string>
+    <string name="trm4">trm4</string>
+    <string name="def4">def4</string>
+    <string name="def5">def5</string>
+    <string name="trm5">trm5</string>
+    <string name="trm10">trm10</string>
+    <string name="def10">def10</string>
+    <string name="def9">def9</string>
+    <string name="trm9">trm9</string>
+    <string name="def8">def8</string>
+    <string name="trm8">trm8</string>
+    <string name="def7">def7</string>
+    <string name="trm7">trm7</string>
+    <string name="def6">def6</string>
+    <string name="trm6">trm6</string>
+    <string name="termtitle">Terms</string>
+    <string name="definitiontitle">Definitions</string>
+    <string name="btnGoNewQuiz">btnGoNewQuiz</string>
+
+
+
+</resources>
